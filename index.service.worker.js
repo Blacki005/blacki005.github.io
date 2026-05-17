@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1778929337|12836598886';
+const CACHE_VERSION = '1779012614|11130864307';
 /** @type {string} */
 const CACHE_PREFIX = 'stc_naborova_hra-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
